@@ -15,9 +15,8 @@
 形態素解析して取り出した固有名詞とする。
 
 ## 使用するアプリケーション
-・TwitterAPI
-・形態素解析のためのMeCab
-
+- TwitterAPI
+- 形態素解析のためのMeCab
 
 ## 参考文献
 [1]Jared(2013),"How To Write a Twitter Bot with Python and tweepy",
